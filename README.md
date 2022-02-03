@@ -4,7 +4,7 @@
 
 ESLint config for Edge JavaScript projects.
 
-For TypeScript linting see [edge/eslint-config-typescript](https://github.com/edge/eslint-config-typescript)
+For TypeScript config, see [edge/eslint-config-typescript](https://github.com/edge/eslint-config-typescript)
 
 ## Usage
 
