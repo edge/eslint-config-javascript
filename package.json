@@ -1,0 +1,14 @@
+{
+  "name": "@edge/eslint-config-javascript",
+  "version": "0.1.0",
+  "description": "ESLint config for Edge JavaScript projects",
+  "main": "index.js",
+  "author": "Edge Network <core@edge.network>",
+  "contributors": [
+    "Aneurin \"Anny\" Barker Snook <aneurin@edge.network>"
+  ],
+  "license": "unlicensed",
+  "peerDependencies": {
+    "eslint": "^7.0.0"
+  }
+}
