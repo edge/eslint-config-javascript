@@ -9,6 +9,6 @@
   ],
   "license": "unlicensed",
   "peerDependencies": {
-    "eslint": "^7.0.0"
+    "eslint": "^7.0.0 | ^8.0.0"
   }
 }
