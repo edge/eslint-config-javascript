@@ -5,10 +5,11 @@
   "main": "index.js",
   "author": "Edge Network <core@edge.network>",
   "contributors": [
-    "Aneurin \"Anny\" Barker Snook <aneurin@edge.network>"
+    "Aneurin \"Anny\" Barker Snook <aneurin@edge.network>",
+    "Adam K Dean <adam@edge.network>"
   ],
   "license": "unlicensed",
   "peerDependencies": {
-    "eslint": "^7.0.0"
+    "eslint": "*"
   }
 }
