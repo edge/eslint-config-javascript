@@ -42,7 +42,7 @@
     "max-len": [
       "warn",
       {
-        "code": 120
+        "code": 160
       }
     ],
     "no-array-constructor": "error",
@@ -81,5 +81,17 @@
       }
     ],
     "sort-vars": "error"
-  }
+  },
+  "overrides": [
+    {
+      "files": [
+        "*.vue"
+      ],
+      "rules": {
+        "max-len": [
+          "off"
+        ]
+      }
+    }
+  ]
 }
